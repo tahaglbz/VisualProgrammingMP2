@@ -58,4 +58,7 @@ info_label.pack(pady=(5, 5))
 chart_button = tk.Button(root, text="Show Chart of Selected Country", font=("Helvetica", 12), fg="black", command=lambda: None)
 chart_button.pack(pady=5)
 
+analysis_button = tk.Button(root, text="Show top 10 performing countries analytics ", font=("Helvetica", 12), fg="black", command=lambda: None)
+analysis_button.pack(pady=5)
+
 root.mainloop()
