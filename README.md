@@ -23,7 +23,6 @@ This repository contains a Python project that scrapes country data from the off
 ### Clone the repository:
 ```bash
 git clone https://github.com/tahaglbz/VisualProgrammingMP2.git
-cd olympics-scraper
 ```
 
 
